@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694455814 source:c:\users\monter\documents\otelmusteriodemeleri\main.c
+	<stdio.h>
+	<stdlib.h>
+
